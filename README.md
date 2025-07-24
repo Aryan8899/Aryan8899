@@ -1,4 +1,4 @@
-![MasterHead](https://www.billboard.com/wp-content/uploads/2022/03/BILLBOARD-BLOCKCHAIN-01-Landing-Shira-Inbar.gif?w=942&h=623&crop=1)]
+![MasterHead](https://www.billboard.com/wp-content/uploads/2022/03/BILLBOARD-BLOCKCHAIN-01-Landing-Shira-Inbar.gif?w=942&h=623&crop=1)
 <h1 align="center">Hi 👋, I'm Aryan Pandita</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:859/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
